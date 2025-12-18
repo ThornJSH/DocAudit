@@ -1,0 +1,5 @@
+{
+  "name": "DocAudit AI - Document Validity Reviewer",
+  "description": "An advanced document analysis tool using Gemini AI to review the validity of reports, social welfare plans, and government policies with professional-grade logic and critical thinking.",
+  "requestFramePermissions": []
+}
